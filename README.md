@@ -18,6 +18,6 @@
 *	Clone the repo
 * Open the terminal and type following commands:
 ```
-cd one_to_one
+$cd one_to_one
 
-bash testing.sh (To run the automated testing script).
+$bash testing.sh (To run the automated testing script).
